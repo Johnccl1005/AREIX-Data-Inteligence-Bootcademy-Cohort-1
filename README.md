@@ -33,13 +33,13 @@ Phase 2 - Utilise alternative data to enhance your analytical findings.
 - Asset allocation (Equity + Fixed Income + Cash, Multiple regions)
 - Backtesting period (Since MPF launch)
 
-# Details
+# Considerations
 - Extreme market situations e.g. 2008 Financial Crisis
 - Retirement needs (De-risking mechanism)
 - Risk tolerance 
 - Management fee (Gross return / net return)
 
-# Deliverables
+# Details
 - 1 Presentation
 - 2 Analysts
 - 3-4 MPF schemes
