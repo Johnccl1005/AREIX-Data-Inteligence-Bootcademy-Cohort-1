@@ -24,6 +24,7 @@ At AREIX’s Bootcadamy, every single detail in our programmes is carefully craf
 
 # Capstone Project
 Phase 1 - Create a model to strategise the asset allocation for a MPF portfolio which best suit retirement needs.
+
 Phase 2 - Utilise alternative data to enhance your analytical findings.
 
 # Criteria
