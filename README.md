@@ -1,4 +1,4 @@
-# AREIX-Data-Inteligence-Bootcademy-Cohort-1
+# AREIX Data Inteligence Bootcademy Cohort 1
 The Hong Kong Monetary Authority (HKMA) has declared 7 initiatives to create a “smart banking” system in Hong Kong. Combined with Open API, virtual banks and the FPS System, Hong Kong is transforming into a new smart banking playing field.
 
 While FinTech gains momentum, the demand for Data Scientists still outstrips supply. It is for this reason that the Areix Data Intelligence Bootcadamy is brought to life.
